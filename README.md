@@ -1,4 +1,4 @@
-中文
+#中文
 # 我的世界国际版java版自动mtr追加生成器
 # mincraft International Java Edition MTR Automatic Incremental Pack Generator
 MTR追加包半自动生成器
@@ -7,7 +7,8 @@ MTR追加包半自动生成器
 大家可以关注我的b站号
 https://space.bilibili.com/1748881374
 谢谢
-英文
+
+#英文
 User: # mtrzhuijiazidongshengcheng
 MTR additional package semi-automatic generator
 Currently in production, please wait a moment, it will be done soon
