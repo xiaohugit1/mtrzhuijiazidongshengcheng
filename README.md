@@ -18,3 +18,4 @@ Thank you
 
 Assistant: Thank you for sharing the information! I see you’re working on an MTR additional package semi-automatic generator. I wish you success! If you need any help, feel free to let me know.
 bilibili=bilibili.com
+The English version of the .py file will be finished soon.
