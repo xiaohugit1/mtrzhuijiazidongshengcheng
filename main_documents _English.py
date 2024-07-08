@@ -15,5 +15,5 @@ elif (shengyingzuijia == '1'):
     os.makedirs(zhuwengjianjia + './assets' + './mtr' + './sounds')
 print("The main folder has been successfully created.")
 print("The subsidiary files are about to start generating.")
-file=open(zhuwengjianjia+'pack.txt','w+')
+file=open(zhuwengjianjia+'pack.mcmeta','w+')
 file.close()
